@@ -1,0 +1,2 @@
+# .github
+Default company files
