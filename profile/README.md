@@ -28,15 +28,14 @@ Extensive cooperation with scientific institutions, among others: Łódź Techni
 
 CAS cooperates and is interested in opportunities including but not limited to the following:
 
-- Cooperation with OEM or VAR partners who can more fully utilize CAS services and software packages (visit www.commsvr.com) such as software development for real-time distributed industrial and communication applications. CAS has ready-to-use technology of embedded software development, extensive software libraries containing more than 1million lines of source code in high-level language developed by CAS to provide real-time distributed systems;
-- Development of certified OPC Servers and Clients for automation devices (PLCs, communication modules, data concentrators, etc.);
-- Consulting (System Development); and
-- Software Research and Development (Cooperative Development).
+- Cooperation with OEM or VAR partners who can more fully utilize CAS services and software packages (visit [CommServer organization profile to get more](https://github.com/commsvr-com)) such as software development for real-time distributed industrial and communication applications. CAS has ready-to-use technology of embedded software development, and extensive software libraries containing more than 1 million lines of source code in high-level language developed by CAS to provide real-time distributed systems:
+  - Development of certified OPC Servers and Clients for automation devices (PLCs, communication modules, data concentrators, etc.);
+  - Consulting (System Development); and
+  - Software Research and Development (Cooperative Development).
 
-We encourage you to make use of consulting services already at the initial phase of any investment or modernization preparation, to work out a guiding idea, strategy and analysis of control and telemetry systems development at heat engineering companies, from the biggest municipal heating systems located in Warsaw and Łódź to smaller ones such as e.g. Sochaczew or Łask. Previous experience shows that unique solutions can be implemented step by step thanks to a consistent concept and without any threat of entering "a blind alley".
+We encourage you to make use of consulting services already at the initial phase of any investment or modernization preparation, to work out a guiding idea, strategy, and analysis of control and telemetry systems development at heat engineering companies, from the biggest municipal heating systems located in Warsaw and Łódź to smaller ones such as e.g. Sochaczew or Łask. Previous experience shows that unique solutions can be implemented step by step thanks to a consistent concept and without any threat of entering a blind end.
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
