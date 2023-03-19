@@ -121,7 +121,7 @@ Our activities are based on a 30-year experience of a team of design engineers w
 
 ### 🌈 Telemetric System of Intermediate Pumping Stations Control - check out the the projects description to get more
 
-[Remote Control of Łódź Agglomeration Heat Distribution System](https://casmpostol.github.io/.github/HDSLodzPumpingStationsControl.md)
+[Remote Control of Łódź Agglomeration Heat Distribution System](https://casmpostol.github.io/.github/HDSLodzPumpingStationsControl)
 
 **Pollution Emission Monitoring and Accounting System for Thermoelectric Power Plants Group in Łódź**: a modern, integrated solution that enables monitoring and accounting for pollutions and dust emitted in course of industrial processing.
 
@@ -135,7 +135,7 @@ Our activities are based on a 30-year experience of a team of design engineers w
 
 [Monitoring System for an Open Pit Control Centre in Bełchatów](https://casmpostol.github.io/.github/MonitoringBelchatow)
 
-- **Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system**: The municipal heat distribution network of Łódź (1M citizens) is supplied from three heating plants with total thermal output of 2560MW. Their optimal utilization requires a control system to allow working on common areas. As the system is distributed territorially (about 800km of pipes), safe communication between nodes (automation islands) is critical. Additionally, a great number of nodes (~7000) requires to precede the development of an appropriate system structure by a detailed analysis of the availability, throughput, and connectivity standardization. We have decided to use OPC as a communication engine coupled with VHF network. Because of the propagation limits we have to use several central base station locations. The biggest challenge is to synchronize transmission on one common frequency and provide appropriate level of redundancy and throughput.
+**Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system**: The municipal heat distribution network of Łódź (1M citizens) is supplied from three heating plants with total thermal output of 2560MW. Their optimal utilization requires a control system to allow working on common areas. As the system is distributed territorially (about 800km of pipes), safe communication between nodes (automation islands) is critical. Additionally, a great number of nodes (~7000) requires to precede the development of an appropriate system structure by a detailed analysis of the availability, throughput, and connectivity standardization. We have decided to use OPC as a communication engine coupled with VHF network. Because of the propagation limits we have to use several central base station locations. The biggest challenge is to synchronize transmission on one common frequency and provide appropriate level of redundancy and throughput.
 
 ### 🌈 Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system - check out the the projects description to get more
 
