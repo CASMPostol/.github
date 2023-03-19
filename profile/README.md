@@ -103,43 +103,43 @@ Our activities are based on a 30-year experience of a team of design engineers w
 
 ### 🌈 Optimization of Warsaw heating system - check out the the projects description to get more
 
-[Optimization Of Warsaw Heating System](https://casmpostol.github.io/OptimizationOfWarsawHeatingSystem)
+[Optimization Of Warsaw Heating System](https://casmpostol.github.io/.github/OptimizationOfWarsawHeatingSystem)
 
 **Integration of GIS, remote control and monitoring systems in ZEC ŁÓDŹ S.A.**: The purpose of the project is to integrate a GIS application (based on Smallworld engine) with industrial automation systems at the Heat & Power Generating Plants Group in Lodz (ZEC Łódź S.A.).
 
 ### 🌈 OptIntegration of GIS, remote control and monitoring systems - check out the the projects description to get more
 
-[Integration of GIS, remote control and monitoring systems](https://casmpostol.github.io/GISandLodzHeatingSystem)
+[Integration of GIS, remote control and monitoring systems](https://casmpostol.github.io/.github/GISandLodzHeatingSystem)
 
 **Remote Control of Łódź Agglomeration Heat Distribution System.**: In the selected nodes of the ŁÓDŹ agglomeration heat distribution network, the system enables monitoring of working parameters and unmanned remote control of the chambers fittings to switch over the supply areas from one to another heat sources. Finally, the next 200 nodes are to be connected to the system.
 
 ### 🌈 Remote Control of Łódź Agglomeration Heat Distribution System - check out the the projects description to get more
 
-[Remote Control of Łódź Agglomeration Heat Distribution System](https://casmpostol.github.io/RemoteControlLodzHDS)
+[Remote Control of Łódź Agglomeration Heat Distribution System](https://casmpostol.github.io/.github/RemoteControlLodzHDS)
 
 **Telemetric System of Intermediate Pumping Stations Control**: designed for remote monitoring and controlling of unmanned intermediate pumping stations working on main lines in Łódź heating network, from central dispatching room. The intermediate pumping stations are located in the range of 4-6 km from the central dispatching room. Communication is provided by data radio transmission employing radio modems operating in the 400MHz band.
 
 ### 🌈 Telemetric System of Intermediate Pumping Stations Control - check out the the projects description to get more
 
-[Remote Control of Łódź Agglomeration Heat Distribution System](https://casmpostol.github.io/HDSLodzPumpingStationsControl.md)
+[Remote Control of Łódź Agglomeration Heat Distribution System](https://casmpostol.github.io/.github/HDSLodzPumpingStationsControl.md)
 
 **Pollution Emission Monitoring and Accounting System for Thermoelectric Power Plants Group in Łódź**: a modern, integrated solution that enables monitoring and accounting for pollutions and dust emitted in course of industrial processing.
 
 ### 🌈 Pollution Emission Monitoring and Accounting System - check out the the projects description to get more
 
-[Pollution Emission Monitoring and Accounting System](https://casmpostol.github.io/LodzPollutionEmissionMonitoring)
+[Pollution Emission Monitoring and Accounting System](https://casmpostol.github.io/.github/LodzPollutionEmissionMonitoring)
 
 **Monitoring System for an Open Pit Control Centre in Bełchatów Brown Coal Mine**: The computer function is to adequate determination and provision of comprehensive information concerning the plant operation status in a readable form to enable making an optimal decision by a dispatcher.
 
 ### 🌈 Monitoring System for an Open Pit Control Centre in Bełchatów - check out the the projects description to get more
 
-[Monitoring System for an Open Pit Control Centre in Bełchatów](https://casmpostol.github.io/MonitoringBelchatow)
+[Monitoring System for an Open Pit Control Centre in Bełchatów](https://casmpostol.github.io/.github/MonitoringBelchatow)
 
 - **Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system**: The municipal heat distribution network of Łódź (1M citizens) is supplied from three heating plants with total thermal output of 2560MW. Their optimal utilization requires a control system to allow working on common areas. As the system is distributed territorially (about 800km of pipes), safe communication between nodes (automation islands) is critical. Additionally, a great number of nodes (~7000) requires to precede the development of an appropriate system structure by a detailed analysis of the availability, throughput, and connectivity standardization. We have decided to use OPC as a communication engine coupled with VHF network. Because of the propagation limits we have to use several central base station locations. The biggest challenge is to synchronize transmission on one common frequency and provide appropriate level of redundancy and throughput.
 
 ### 🌈 Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system - check out the the projects description to get more
 
-[Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system](https://casmpostol.github.io/CommServerLodzHDS)
+[Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system](https://casmpostol.github.io/.github/CommServerLodzHDS)
 
 **Design of Power Substations Monitoring and Control System for Bełchatów Open Pit**: for the remote monitoring and control of distribution power substations of SPP or similar types.
 **Computer System Integration for Large-Format Visualization**: the Large-Format Visualization System is intended for the service of a wall display, which shows information from selected industrial networks, GIS systems, and control systems of main pumping stations.
