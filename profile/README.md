@@ -62,7 +62,7 @@ Smart Factory applications support:
 
 #### 🌈 Smart Factory Repository - check out the code and consider to contribute
 
-- [Smart Factory Repository](https://github.com/CASMPostol/SmartFactory#smartfactory)
+[Smart Factory Repository](https://github.com/CASMPostol/SmartFactory#smartfactory)
 
 ### Agile project management
 
@@ -70,7 +70,7 @@ Collaboration is a core to improve processes in any organization. It requires in
 
 #### 🌈 Agile Project Management Repository - check out the code and consider to contribute
 
-- [Agile Project Management Repository](https://github.com/CASMPostol/AgileWorkloadTracker#agile-workload-tracker).
+[Agile Project Management Repository](https://github.com/CASMPostol/AgileWorkloadTracker#agile-workload-tracker).
 
 ### Flight Inspection System of Radio Navigation Aids (CFIS)
 
@@ -87,7 +87,7 @@ It is modern, computerized system designed for the acquisition, recording, proce
 
 #### 🌈 CFIS Repository - check out the code and consider to contribute
 
-- [CFIS Repository](https://github.com/CASMPostol/CFIS#cas-flight-inspection-system-of-radio-navigation-aids)
+[CFIS Repository](https://github.com/CASMPostol/CFIS#cas-flight-inspection-system-of-radio-navigation-aids)
 
 
 <table style="font-size: 11px;" title="Bottom navigation menu" border="0" cellspacing="20" cellpadding="1" align="center">
