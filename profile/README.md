@@ -94,6 +94,11 @@ It is modern, computerized system designed for the acquisition, recording, proce
 Our activities are based on a 30-year experience of a team of design engineers who have successfully effected numerous practical implementations including, among others:
 
 - **Smart Heat Distribution Network for SPEC S.A. (Heat Power Engineering Company)** in Warsaw. Today it is hard to imagine effective utilization of technological processes without the use of advanced automation and IT systems. However, if they are large-scale and geographically dispersed infrastructures (railways, district heating, electricity, gas, etc.), their design and implementation face-up remarkable challenges and a real threat to the investment process. The Heat Power Engineering Company in the Capital City of Warsaw came up against such a challenge.
+
+### 🌈 Projects Description - check out the the projects description to get more
+
+[Projects Description](docs/SmartDHSWarsaw.html)
+
 - **Optimization of Warsaw heating system**. CAS has completed the concept entitled: “Establishing of optimal directions, methods, technology, range, and development rate of telemetric and remote control systems for Warsaw heating system components “.
 - **Integration of GIS, remote control and monitoring systems in ZEC ŁÓDŹ S.A.** The purpose of the project is to integrate a GIS application (based on Smallworld engine) with industrial automation systems at the Heat & Power Generating Plants Group in Lodz (ZEC Łódź S.A.).
 - **Remote Control of Łódź Agglomeration Heat Distribution System.** In the selected nodes of the ŁÓDŹ agglomeration heat distribution network, the system enables monitoring of working parameters and unmanned remote control of the chambers fittings to switch over the supply areas from one to another heat sources. Finally, the next 200 nodes are to be connected to the system.
