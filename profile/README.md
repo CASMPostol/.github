@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+## 🙋‍♀️ A short introduction
+
 CAS has specialized in integrating IT systems used for organization management for over 40 years. We offer services including planning, designing, implementation, and development of specialized software as well as its maintenance. We provide consulting services in developing concepts, strategies, and analyses of IT systems development within an enterprise. Our experience shows that having a coherent vision unique solutions can be implemented in stages, without any threat of entry into a blind end. Based on experience gained during the implementation of a wide variety of projects we prepare documentation that constitutes specific pre-implementation studies regarding the development and deployment of IT systems. We wish the customer to identify our brand with high-quality products and services that improve operational efficiency and competitiveness. We are aware that a well-matched team provides the foundation for company success. Our experienced, highly educated, and motivated employees can contribute to the achievement of mutual success.
 
 ## Experience
@@ -39,33 +41,33 @@ We encourage you to make use of consulting services already at the initial phase
     <tbody title="CommServer">
         <tr align="center" valign="middle">
             <td title="github"><a title="GitHub Object Oriented Internet" href="http://github.com/mpostol/OPC-UA-OOI"
-                    target="_blank" rel="external noopener noreferrer"> <img src="..media/bottom_GitHub.png"
+                    target="_blank" rel="external noopener noreferrer"> <img src=".media/bottom_GitHub.png"
                         alt="GitHub Object Oriented Internet" align="texttop" border="0" /><br /> <span
                         style="color: #07ad36;">GitHub</span> </a></td>
             <td title="wordpress"><a title="Open Mariusz Postol Blog" href="http://mpostol.wordpress.com/" target="_blank"
-                    rel="external noopener noreferrer"> <img src="..media/bottom_wordpress.png"
+                    rel="external noopener noreferrer"> <img src=".media/bottom_wordpress.png"
                         alt="Mariusz Postol Blog" align="texttop" border="0" /><br /> <span
                         style="color: #07ad36;">Blog</span> </a></td>
             <td title="LinkedIn"><a title="Follow Mariusz Postol on LinkedIn"
                     href="https://www.linkedin.com/in/mpostol?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCSmqFq8sSwqVWNin4%2F012Q%3D%3D/"
-                    target="_blank" rel="external noopener noreferrer"> <img src="..media/bottom_LI-In-Bug.png"
+                    target="_blank" rel="external noopener noreferrer"> <img src=".media/bottom_LI-In-Bug.png"
                         alt="Follow Mariusz Postol on LinkedIn" align="texttop" border="0" /><br /> <span
                         style="color: #07ad36;">LinkedIn</span> </a></td>
             <td title="youtube"><a title="Follow us on YouTube" href="https://www.youtube.com/@mariuszpostol/featured"
-                    target="_blank" rel="external noopener noreferrer"> <img src="..media/bottom_youtube.png"
+                    target="_blank" rel="external noopener noreferrer"> <img src=".media/bottom_youtube.png"
                         alt="Follow us on YouTube" align="texttop" border="0" /><br /> <span
                         style="color: #07ad36;">YouTube</span></a></td>
             <td title="researchgate"><a title="Follow Mariusz Postol on ResearchGate"
                     href="https://www.researchgate.net/profile/Mariusz_Postol"> <img
-                        title="Follow Mariusz Postol on ResearchGate" src="..media/bottom_ResearchGate.png"
+                        title="Follow Mariusz Postol on ResearchGate" src=".media/bottom_ResearchGate.png"
                         alt="Follow Mariusz Postol on ResearchGate" align="texttop" border="0" /><br /> <span
                         style="color: #07ad36;">RG</span> </a></td>
             <td title="twitter"><a title="Follow CommServer on Twitter" href="https://twitter.com/CAS_Company"
                     target="_blank" rel="external noopener noreferrer"> <img title="Follow CommServer on Twitter"
-                        src="..media/bottom_twitter.png" alt="Follow Commserver on Twitter " align="texttop"
+                        src=".media/bottom_twitter.png" alt="Follow Commserver on Twitter " align="texttop"
                         border="0" /><br /> <span style="color: #07ad36;">Twitter</span> </a></td>
             <td title="CommServer"><a title="CommServer" href="https://github.com/commsvr-com" target="_blank"> <img
-                        src="..media/bottom_commserver.png" alt="CommServer" align="texttop" border="0" /><br /> <span
+                        src=".media/bottom_commserver.png" alt="CommServer" align="texttop" border="0" /><br /> <span
                         style="color: #07ad36;">CommServer</span> </a></td>
         </tr>
     </tbody>
@@ -73,7 +75,6 @@ We encourage you to make use of consulting services already at the initial phase
 
 <!--
 **Here are some ideas to get you started:**
-
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
