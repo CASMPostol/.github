@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![imagine](/.media/cas_banner.png.png)
+![imagine](/.media/cas_banner.png)
 
 ## 🙋‍♀️ A short introduction
 
