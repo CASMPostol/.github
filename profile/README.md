@@ -93,31 +93,56 @@ It is modern, computerized system designed for the acquisition, recording, proce
 
 Our activities are based on a 30-year experience of a team of design engineers who have successfully effected numerous practical implementations including, among others:
 
-- **Smart Heat Distribution Network for SPEC S.A. (Heat Power Engineering Company)** in Warsaw. Today it is hard to imagine effective utilization of technological processes without the use of advanced automation and IT systems. However, if they are large-scale and geographically dispersed infrastructures (railways, district heating, electricity, gas, etc.), their design and implementation face-up remarkable challenges and a real threat to the investment process. The Heat Power Engineering Company in the Capital City of Warsaw came up against such a challenge.
+**Smart Heat Distribution Network for SPEC S.A. (Heat Power Engineering Company in Warsaw)**: Today it is hard to imagine effective utilization of technological processes without the use of advanced automation and IT systems. However, if they are large-scale and geographically dispersed infrastructures (railways, district heating, electricity, gas, etc.), their design and implementation face-up remarkable challenges and a real threat to the investment process. The Heat Power Engineering Company in the Capital City of Warsaw came up against such a challenge.
 
 ### 🌈 Warsaw Smart Heat Distribution Network - check out the the projects description to get more
 
-[Projects Description](https://casmpostol.github.io/.github/SmartDHSWarsaw)
+[Warsaw Smart Heat Distribution Network](https://casmpostol.github.io/.github/SmartDHSWarsaw)
 
-- **Optimization of Warsaw heating system**. CAS has completed the concept entitled: “Establishing of optimal directions, methods, technology, range, and development rate of telemetric and remote control systems for Warsaw heating system components “.
+**Optimization of Warsaw heating system**: CAS has completed the concept entitled: “Establishing of optimal directions, methods, technology, range, and development rate of telemetric and remote control systems for Warsaw heating system components “.
 
 ### 🌈 Optimization of Warsaw heating system - check out the the projects description to get more
 
-[Optimization Of Warsaw Heating System](https://casmpostol.github.io/.github/SmartDHSWarsaw)
+[Optimization Of Warsaw Heating System](https://casmpostol.github.io/OptimizationOfWarsawHeatingSystem)
 
-- **Integration of GIS, remote control and monitoring systems in ZEC ŁÓDŹ S.A.** The purpose of the project is to integrate a GIS application (based on Smallworld engine) with industrial automation systems at the Heat & Power Generating Plants Group in Lodz (ZEC Łódź S.A.).
-- **Remote Control of Łódź Agglomeration Heat Distribution System.** In the selected nodes of the ŁÓDŹ agglomeration heat distribution network, the system enables monitoring of working parameters and unmanned remote control of the chambers fittings to switch over the supply areas from one to another heat sources. Finally, the next 200 nodes are to be connected to the system.
-- **Telemetric System of Intermediate Pumping Stations Control**, designed for remote monitoring and controlling of unmanned intermediate pumping stations working on main lines in Łódź heating network, from central dispatching room. The intermediate pumping stations are located in the range of 4-6 km from the central dispatching room. Communication is provided by data radio transmission employing radio modems operating in the 400MHz band.
-- **Pollution Emission Monitoring and Accounting System for Thermoelectric Power Plants Group in Łódź**, a modern, integrated solution that enables monitoring and accounting for pollutions and dust emitted in course of industrial processing.
-- **Monitoring System for an Open Pit Control Centre in Bełchatów Brown Coal Mine**. The computer function is to adequate determination and provision of comprehensive information concerning the plant operation status in a readable form to enable making an optimal decision by a dispatcher.
-- **Flight Inspection System of Radio Navigation Aids**, a computer-based system used for the airborne evaluation of the accuracy and performance of the ground navigation facilities. It includes VHF systems, specialized converters, a multiprocessor computer system, and original software.
-- **Design of Power Substations Monitoring and Control System for Bełchatów Open Pit** - for the remote monitoring and control of distribution power substations of SPP or similar types.
-- **Computer System Integration for Large-Format Visualization**. The Large-Format Visualization System is intended for the service of a wall display, which shows information from selected industrial networks, GIS systems, and control systems of main pumping stations.
-- **Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system**.
+**Integration of GIS, remote control and monitoring systems in ZEC ŁÓDŹ S.A.**: The purpose of the project is to integrate a GIS application (based on Smallworld engine) with industrial automation systems at the Heat & Power Generating Plants Group in Lodz (ZEC Łódź S.A.).
 
-### 🌈 Projects Description - check out the the projects description to get more
+### 🌈 OptIntegration of GIS, remote control and monitoring systems - check out the the projects description to get more
 
-[Projects Description](https://casmpostol.github.io/.github/)
+[Integration of GIS, remote control and monitoring systems](https://casmpostol.github.io/GISandLodzHeatingSystem)
+
+**Remote Control of Łódź Agglomeration Heat Distribution System.**: In the selected nodes of the ŁÓDŹ agglomeration heat distribution network, the system enables monitoring of working parameters and unmanned remote control of the chambers fittings to switch over the supply areas from one to another heat sources. Finally, the next 200 nodes are to be connected to the system.
+
+### 🌈 Remote Control of Łódź Agglomeration Heat Distribution System - check out the the projects description to get more
+
+[Remote Control of Łódź Agglomeration Heat Distribution System](https://casmpostol.github.io/RemoteControlLodzHDS)
+
+**Telemetric System of Intermediate Pumping Stations Control**: designed for remote monitoring and controlling of unmanned intermediate pumping stations working on main lines in Łódź heating network, from central dispatching room. The intermediate pumping stations are located in the range of 4-6 km from the central dispatching room. Communication is provided by data radio transmission employing radio modems operating in the 400MHz band.
+
+### 🌈 Telemetric System of Intermediate Pumping Stations Control - check out the the projects description to get more
+
+[Remote Control of Łódź Agglomeration Heat Distribution System](https://casmpostol.github.io/HDSLodzPumpingStationsControl.md)
+
+**Pollution Emission Monitoring and Accounting System for Thermoelectric Power Plants Group in Łódź**: a modern, integrated solution that enables monitoring and accounting for pollutions and dust emitted in course of industrial processing.
+
+### 🌈 Pollution Emission Monitoring and Accounting System - check out the the projects description to get more
+
+[Pollution Emission Monitoring and Accounting System](https://casmpostol.github.io/LodzPollutionEmissionMonitoring)
+
+**Monitoring System for an Open Pit Control Centre in Bełchatów Brown Coal Mine**: The computer function is to adequate determination and provision of comprehensive information concerning the plant operation status in a readable form to enable making an optimal decision by a dispatcher.
+
+### 🌈 Monitoring System for an Open Pit Control Centre in Bełchatów - check out the the projects description to get more
+
+[Monitoring System for an Open Pit Control Centre in Bełchatów](https://casmpostol.github.io/MonitoringBelchatow)
+
+- **Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system**: The municipal heat distribution network of Łódź (1M citizens) is supplied from three heating plants with total thermal output of 2560MW. Their optimal utilization requires a control system to allow working on common areas. As the system is distributed territorially (about 800km of pipes), safe communication between nodes (automation islands) is critical. Additionally, a great number of nodes (~7000) requires to precede the development of an appropriate system structure by a detailed analysis of the availability, throughput, and connectivity standardization. We have decided to use OPC as a communication engine coupled with VHF network. Because of the propagation limits we have to use several central base station locations. The biggest challenge is to synchronize transmission on one common frequency and provide appropriate level of redundancy and throughput.
+
+### 🌈 Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system - check out the the projects description to get more
+
+[Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system](https://casmpostol.github.io/CommServerLodzHDS)
+
+**Design of Power Substations Monitoring and Control System for Bełchatów Open Pit**: for the remote monitoring and control of distribution power substations of SPP or similar types.
+**Computer System Integration for Large-Format Visualization**: the Large-Format Visualization System is intended for the service of a wall display, which shows information from selected industrial networks, GIS systems, and control systems of main pumping stations.
 
 <table style="font-size: 11px;" title="Bottom navigation menu" border="0" cellspacing="20" cellpadding="1" align="center">
     <tbody title="CommServer">
