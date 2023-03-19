@@ -1,2 +1,3 @@
-# .github
-Default company files
+# Default company files
+
+- company profile landing page `profile\README.md`
