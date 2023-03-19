@@ -105,6 +105,10 @@ Our activities are based on a 30-year experience of a team of design engineers w
 - **Computer System Integration for Large-Format Visualization**. The Large-Format Visualization System is intended for the service of a wall display, which shows information from selected industrial networks, GIS systems, and control systems of main pumping stations.
 - **Redundant, multi-protocol, optimal OPC server in Łódź agglomeration heat distribution system**.
 
+### 🌈 Projects Description - check out the the projects description to get more
+
+[Projects Description](https://casmpostol.github.io/.github/)
+
 <table style="font-size: 11px;" title="Bottom navigation menu" border="0" cellspacing="20" cellpadding="1" align="center">
     <tbody title="CommServer">
         <tr align="center" valign="middle">

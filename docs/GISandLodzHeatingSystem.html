@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Integration of GIS and Remote Control and Monitoring Systems for Lodz Heating Municipal System</title>
+
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+
+    <style>
+        .task-list-item {
+            list-style-type: none;
+        }
+
+        .task-list-item-checkbox {
+            margin-left: -20px;
+            vertical-align: middle;
+        }
+    </style>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'Ubuntu', 'Droid Sans', sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+    </style>
+
+
+</head>
+
+<body class="vscode-light">
+    <h1 id="integration-of-gis-and-remote-control-and-monitoring-systems-for-lodz-heating-municipal-system">Integration
+        of GIS and Remote Control and Monitoring Systems for Lodz Heating Municipal System</h1>
+    <p>The purpose of the project is to integrate a GIS application (based on Smallworld engine) with industrial
+        automation systems at the Heat &amp; Power Generating Plants Group in Lodz (ZEC Lodz S.A.). Due to the
+        integration, real-time display of process data from the following systems on GIS screens is possible:</p>
+    <ul>
+        <li>Monitoring of heat sources (i.e. 3 heat &amp; power generating plants of ZEC Lodz S.A., of the total heat
+            output of 2560MW);</li>
+        <li>Remote control system of valves in heat chambers (19 heat chambers in key locations of Lodz heat
+            distribution system);</li>
+        <li>Monitoring of Smulsko Heat Exchanger Plant (a big heat exchanger plant providing heat for an estate of
+            detached houses);</li>
+        <li>Radio remote control system of pressure reduction stations (SOC) (two stations).</li>
+    </ul>
+    <p>In order to ensure a reliable and open solution, technologies based on the following standards are used to
+        integrate all components:</p>
+    <ul>
+        <li>OPC – advanced communication standards for industrial process control.</li>
+        <li>SQL (Structured Query Language) and Oracle database – a standard language to query the data bases.</li>
+        <li>XML (eXtensible Markup Language) – a standard, very flexible text format, originally designed to meet the
+            challenges of large-scale electronic publishing.</li>
+        <li>HTTP (HyperText Transport Protocol) – a text protocol of information exchange – a standard one for e.g. web
+            browsers.</li>
+        <li>SOAP (Simple Object Access Protocol) – a text protocol providing access to and calling of remote ob-ject
+            functions.</li>
+        <li>WSDL (Web Services Description Language) - is an XML format for describing network services as a set of
+            endpoints operating on messages containing either document-oriented or procedure-oriented information.</li>
+    </ul>
+    <p>Finally, the software provides a safe, flexible and optimal way to access the process from all systems it
+        cooperates with and acquires data from.</p>
+    <h2 id="system-architecture">System architecture</h2>
+    <p>A client station of the GIS system acquires data from OPC servers, installed in individual remote control &amp;
+        monitoring systems (OPC servers as components of Wizcon applications, an OPC server of a BUSSSniffer computer
+        and a base station - collecting data from remote control &amp; monitoring systems of the heat chambers, Smulsko
+        Heat Exchanger Plant and SOC, based on an OPC server Commserver), additionally, data on modifications made to
+        the heat chamber fittings are transmitted using advanced mechanisms of buffers.</p>
+    <p>Exchange of information between the GIS system, the remote control &amp; monitoring system can be divided into
+        two elements:</p>
+    <ul>
+        <li>Reading of actual, current values of measuring points and system control.</li>
+        <li>Updating of the GIS system database on modifications to fittings in individual chambers.</li>
+    </ul>
+    <p>The integration requires utilization or establishment and configuration of the following communication links:</p>
+    <ul>
+        <li>Base Station – heat chambers – the existing connections based on SBUS serial communication proto-col are
+            used.</li>
+        <li>Base Station – Smulsko – the existing connections based on SBUS serial communication protocol are used.</li>
+        <li>Base Station – Base Station SOC – a new serial connection and SBUS protocol are used. The Base Station SOC
+            is configured as a slave station on the next channel, from which the Base Station (CommServer) reads process
+            data.</li>
+        <li>Base Station – CDC EC2 and EC3 – there is used the OPC connection based on OPC servers of Wizcon
+            application, configured previously.</li>
+        <li>Base Station – CDC EC4 – a computer and BUSSniffer software are installed, that passively acquire data from
+            SBUS local link and make them available remotely through an OPC server.</li>
+        <li>Base Station – GIS Application – Oracle Data Base – there is installed an OPC client (DataPorter™ with
+            OPC2GISSMALLWORLD and OPC2SQL modules), that makes the process data available through Internet services
+            based on HTTP/SOAP protocols and makes recording in the data-base possible.</li>
+    </ul>
+
+</body>
+
+</html>
