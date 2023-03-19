@@ -39,6 +39,48 @@ CAS cooperates and is interested in opportunities including but not limited to t
 
 We encourage you to make use of consulting services already at the initial phase of any investment or modernization preparation, to work out a guiding idea, strategy, and analysis of control and telemetry systems development at heat engineering companies, from the biggest municipal heating systems located in Warsaw and Łódź to smaller ones such as e.g. Sochaczew or Łask. Previous experience shows that unique solutions can be implemented step by step thanks to a consistent concept and without any threat of entering a blind end.
 
+## Products
+
+### Smart Factory
+
+`Smart Factory` - workflow management system is a group of CAS applications that support automation of business processes, through their precise definition and control of the flow of information and synchronization of the internal and external participants’ activities.
+
+Smart Factory applications support:
+
+- Group work in the field of logistics (Shepherd),
+- Customs clearing (Inward Process Relief),
+
+- [Smart Factory Repository](https://github.com/CASMPostol/SmartFactory#smartfactory)
+
+### Agile project management
+
+Collaboration is a core to improve processes in any organization. It requires information sharing as well as following precisely defined procedures. Both information and behavioral models must be consistent and fulfill business requirements leading to improvements in process performance measured using Key Performance Indicators in critical areas. To be useful for daily process management these indicators must be observable. To engage adoptive information models, control workflows and use Business Intelligence to measure the process performance our applications are deployed on the Microsoft SharePoint as a human-centric foundation using Web Applications to publish and share the content.
+
+- [Agile project management Repository](https://github.com/CASMPostol/AgileWorkloadTracker#agile-workload-tracker).
+
+### Flight Inspection System of Radio Navigation Aids (CFIS)
+
+The CAS Flight Inspection System (CFIS) of the radio navigation aids (CFIS) is used for the airborne evaluation of the accuracy and performance of ground navigation facilities. The system provides the capability to inspect the following aids:
+
+- ILS - Instrument Landing System
+- MKS - ILS associated approach markers
+- VOR - VHF Omnidirectional Range
+- DME - Distance Measuring Equipment
+- NDB - Non-directional Beacon System
+- VHF - Communication and Radar Systems
+
+It is modern, computerized system designed for the acquisition, recording, processing, analysis, display, and reporting of flight inspection data. It acquires various conditional signals from the avionics.
+
+[CFIS Repository](https://github.com/CASMPostol/CFIS#cas-flight-inspection-system-of-radio-navigation-aids)
+
+### CommServer software family
+
+`CommServer` is a software family dedicated to manage communication between applications, which combine the smart data transfer and systems integration functionality. It is optimally suited for the industrial process control, where the managed process is distributed over a large geographical area, e.g. heat and power distribution, oil and gas distribution, water and sanitation, multi-enterprise production, city road traffic supervision, control of water level and weather conditions, etc.
+
+The CommServer family is compliant with OPC Classic and OPC Unified Architecture.
+
+Vortal CommServer: Welcome to visit a portal about innovative communication technologies. Here, you can find information about modern solutions in the field of software for communication and integration of computer systems. OPC technology – an international industrial communication standard that opens our Knowledge Base. We invite you to use our service and learn more about the wide offer of our partnership programs for universities, integrators, manufacturers of automation equipment as well as programmers. RSS channels available within the service facilitate keeping up with changes.
+
 <table style="font-size: 11px;" title="Bottom navigation menu" border="0" cellspacing="20" cellpadding="1" align="center">
     <tbody title="CommServer">
         <tr align="center" valign="middle">
