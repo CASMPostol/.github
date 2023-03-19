@@ -35,6 +35,42 @@ CAS cooperates and is interested in opportunities including but not limited to t
 
 We encourage you to make use of consulting services already at the initial phase of any investment or modernization preparation, to work out a guiding idea, strategy, and analysis of control and telemetry systems development at heat engineering companies, from the biggest municipal heating systems located in Warsaw and Łódź to smaller ones such as e.g. Sochaczew or Łask. Previous experience shows that unique solutions can be implemented step by step thanks to a consistent concept and without any threat of entering a blind end.
 
+<table style="font-size: 11px;" title="Bottom navigation menu" border="0" cellspacing="20" cellpadding="1" align="center">
+    <tbody title="CommServer">
+        <tr align="center" valign="middle">
+            <td title="github"><a title="GitHub Object Oriented Internet" href="http://github.com/mpostol/OPC-UA-OOI"
+                    target="_blank" rel="external noopener noreferrer"> <img src=",media/bottom_GitHub.png"
+                        alt="GitHub Object Oriented Internet" align="texttop" border="0" /><br /> <span
+                        style="color: #07ad36;">GitHub</span> </a></td>
+            <td title="wordpress"><a title="Open Mariusz Postol Blog" href="http://mpostol.wordpress.com/" target="_blank"
+                    rel="external noopener noreferrer"> <img src=",media/bottom_wordpress.png"
+                        alt="Mariusz Postol Blog" align="texttop" border="0" /><br /> <span
+                        style="color: #07ad36;">Blog</span> </a></td>
+            <td title="LinkedIn"><a title="Follow Mariusz Postol on LinkedIn"
+                    href="https://www.linkedin.com/in/mpostol?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCSmqFq8sSwqVWNin4%2F012Q%3D%3D/"
+                    target="_blank" rel="external noopener noreferrer"> <img src=",media/bottom_LI-In-Bug.png"
+                        alt="Follow Mariusz Postol on LinkedIn" align="texttop" border="0" /><br /> <span
+                        style="color: #07ad36;">LinkedIn</span> </a></td>
+            <td title="youtube"><a title="Follow us on YouTube" href="https://www.youtube.com/user/CASCommServer"
+                    target="_blank" rel="external noopener noreferrer"> <img src=",media/bottom_youtube.png"
+                        alt="Follow us on YouTube" align="texttop" border="0" /><br /> <span
+                        style="color: #07ad36;">YouTube</span></a></td>
+            <td title="researchgate"><a title="Follow Mariusz Postol on ResearchGate"
+                    href="https://www.researchgate.net/profile/Mariusz_Postol"> <img
+                        title="Follow Mariusz Postol on ResearchGate" src=",media/bottom_ResearchGate.png"
+                        alt="Follow Mariusz Postol on ResearchGate" align="texttop" border="0" /><br /> <span
+                        style="color: #07ad36;">RG</span> </a></td>
+            <td title="twitter"><a title="Follow CommServer on Twitter" href="https://twitter.com/CAS_Company"
+                    target="_blank" rel="external noopener noreferrer"> <img title="Follow CommServer on Twitter"
+                        src=",media/bottom_twitter.png" alt="Follow Commserver on Twitter " align="texttop"
+                        border="0" /><br /> <span style="color: #07ad36;">Twitter</span> </a></td>
+            <td title="CommServer"><a title="CommServer" href="http://www.commsvr.com" target="_blank"> <img
+                        src=",media/bottom_commserver.png" alt="CommServer" align="texttop" border="0" /><br /> <span
+                        style="color: #07ad36;">CommServer</span> </a></td>
+        </tr>
+    </tbody>
+</table>
+
 <!--
 **Here are some ideas to get you started:**
 
