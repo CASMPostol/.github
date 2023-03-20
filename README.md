@@ -1,3 +1,7 @@
-# Default company files
+# Default CAS Profile Files
 
-- company profile landing page `profile\README.md`
+## Hi there 👋
+
+![CAS Banner](.media/cas_banner.png)
+
+To get more about CAS click [more](https://github.com/CASMPostol#about-cas)
