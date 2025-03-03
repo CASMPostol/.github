@@ -1,0 +1,2 @@
+- name: Zenodo upload
+  uses: megasanjay/upload-to-zenodo@v2.0.1
